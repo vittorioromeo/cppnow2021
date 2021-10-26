@@ -8,5 +8,5 @@ Repository for my C++Now 2021 talks.
 
 * [Slides](https://github.com/SuperV1234/cppnow2021/blob/master/slides.pdf)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=E3JG2Ijjei4)
 
